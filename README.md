@@ -13,3 +13,4 @@ Nazhir Jackson
 Evan Hitchings
 Devon Lindsay
 Jalisa Hewitt
+Josh Kelley
