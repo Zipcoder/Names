@@ -18,3 +18,5 @@ Zachary Wasserman
 Devon Lindsay
 Jon Leczner
 Abijah Tafari
+Kurt McCann
+
