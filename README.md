@@ -17,4 +17,5 @@ Jalisa Hewitt
 Josh Kelley
 Caonabo Castro
 Zachary Wasserman
+Roberto DeDeus
 
