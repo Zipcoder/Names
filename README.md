@@ -6,11 +6,11 @@ James Crawley
 Caonabo Castro
 Will Shuler
 Sujatha Ravikumar
-Adam KamshehD
+Adam Kamsheh
 Jon Leczner
-=======
+Adam Kamsheh
+Nazhir Jackson
 Zac Lee
 Jalisa Hewitt
 Evan Hitchings
-
->>>>>>> 83a853f69f43566e7b933c8f6b5ef52fde7bb532
+Armard Bellamy
