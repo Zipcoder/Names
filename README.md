@@ -13,3 +13,4 @@ Jalisa Hewitt
 Evan Hitchings
 Armard Bellamy
 Chris Burns
+Zachary Wasserman
