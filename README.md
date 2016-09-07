@@ -7,10 +7,10 @@ Caonabo Castro
 Will Shuler
 Sujatha Ravikumar
 Adam Kamsheh
-Jon Leczner
-Adam Kamsheh
 Nazhir Jackson
 Zac Lee
 Jalisa Hewitt
 Evan Hitchings
 Armard Bellamy
+Chris Burns
+Jon Leczner
