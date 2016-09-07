@@ -16,3 +16,5 @@ Devon Lindsay
 Jalisa Hewitt
 Josh Kelley
 Caonabo Castro
+Zachary Wasserman
+
