@@ -15,3 +15,4 @@ Evan Hitchings
 Armard Bellamy
 Chris Burns
 Zachary Wasserman
+Devon Lindsay
