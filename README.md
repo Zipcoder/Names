@@ -2,7 +2,6 @@ David Ginzberg
 Chris Burns
 Nate Holloway
 Carina Blair
-Jalisa Hewitt
 Kevin O'Connell
 James Crawley
 Zac Lee
@@ -13,3 +12,4 @@ Armard Bellamy
 Nazhir Jackson
 Evan Hitchings
 Devon Lindsay
+Jalisa Hewitt
