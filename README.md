@@ -2,6 +2,8 @@ David Ginzberg
 Chris Burns
 Nate Holloway
 Carina Blair
+Kevin O'Connell
+James Crawley
 Zac Lee
 Kevin O'Connell
 Abijah Immanuel
@@ -11,3 +13,4 @@ Armard Bellamy
 Nazhir Jackson
 Evan Hitchings
 Devon Lindsay
+Jalisa Hewitt
