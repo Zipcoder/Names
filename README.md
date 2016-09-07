@@ -4,5 +4,4 @@ Carina Blair
 Jalisa Hewitt
 Kevin O'Connell
 James Crawley
-Jalisa Hewitt
 
