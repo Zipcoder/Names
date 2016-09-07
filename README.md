@@ -17,3 +17,4 @@ Chris Burns
 Zachary Wasserman
 Devon Lindsay
 Jon Leczner
+Abijah Tafari
