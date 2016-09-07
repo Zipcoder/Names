@@ -11,4 +11,5 @@ James Crawley
 Adam Kamsheh
 Armard Bellamy
 Nazhir Jackson
+Evan Hitchings
 Devon Lindsay
