@@ -16,15 +16,9 @@ Evan Hitchings
 Devon Lindsay
 Jalisa Hewitt
 Josh Kelley
-<<<<<<< HEAD
 Emily Butte
-=======
 Caonabo Castro
 Zachary Wasserman
 Roberto DeDeus
 Ken Ragonese
-<<<<<<< HEAD
->>>>>>> 9575fc63002237d47df0eccc9414023a39bf2ec3
-=======
 Kurt McCann
->>>>>>> 8640389c52d980c6240d2b9f8b74f6e3827ecbf2
