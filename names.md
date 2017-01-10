@@ -10,6 +10,6 @@ Randall Crame
 Ryan Gross
 Andy Kim
 Gillian Reynolds-Titko
-Tolani Ibikunle
 Dan Ries
 Eugene Vedensky
+Tolani Ibikunle
