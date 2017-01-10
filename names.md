@@ -7,3 +7,4 @@ Andres Holland
 Gerrod Mozeik
 John Squier
 Ryan Gross
+Gillian Reynolds-Titko
