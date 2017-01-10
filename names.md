@@ -10,3 +10,4 @@ Ryan Gross
 Andy Kim
 Gillian Reynolds-Titko
 Dan Ries
+Eugene Vedensky
