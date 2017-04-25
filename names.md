@@ -1,5 +1,5 @@
   Chris Kim
-Aurora Banuelos
+Maria Aurora Banuelos
 Cameron Sima
 Daniel Prahl
 Dan Zygmund-Felt
