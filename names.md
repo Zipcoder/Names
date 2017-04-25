@@ -2,3 +2,4 @@
 Aurora Banuelos
 Cameron Sima
 Daniel Prahl
+Dan Zygmund-Felt
