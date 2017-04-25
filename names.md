@@ -2,7 +2,7 @@
 
 
 
-Chris Kim testing
+Chris Kim
 Maria Aurora Banuelos
 Cameron Sima
 Daniel Prahl
