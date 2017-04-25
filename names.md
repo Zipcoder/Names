@@ -9,3 +9,5 @@ Dennis Kalaygian
 Gregory Fletcher Jr
 Rahmir Ford
 Vidya Chandrasekhar
+Molly Arant
+Stephen Pegram
