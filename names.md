@@ -1,4 +1,4 @@
-  Chris Kim
+Chris Kim
 Aurora Banuelos
 Cameron Sima
 Daniel Prahl
