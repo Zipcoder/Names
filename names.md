@@ -5,4 +5,4 @@ Daniel Prahl
 Dan Zygmund-Felt
 Mark Brown
 Jarryd Stamatelos
-Vilena Livinsky
+Dennis Kalaygian
